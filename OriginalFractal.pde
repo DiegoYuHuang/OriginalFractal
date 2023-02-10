@@ -1,6 +1,6 @@
 public void draw(){
   background(0);
-  myFractal(350,350,700);
+  myFractal(500,500,700);
   //fill(Math.random()*200, Math.random()*200, Math.random()*200);
 }
 
